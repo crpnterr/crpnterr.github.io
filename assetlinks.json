@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.crpnterr.twa",
-        "sha256_cert_fingerprints": ["3E:27:7D:3D:A6:A8:67:7C:14:1D:80:5E:1C:33:F7:82:CE:A3:7F:00:4D:6D:13:60:22:D1:78:39:B0:ED:7D:10"]
-      }
-    }]
